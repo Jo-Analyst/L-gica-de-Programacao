@@ -16,3 +16,4 @@ Operadores lógicos
 true(Verdadeiro) ou false(falso)
 && : E
 || : Ou
+! Negação
