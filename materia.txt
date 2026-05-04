@@ -3,6 +3,7 @@ Operadores aritmético
 - : Subtrair
 / : Dividir
 * : Multiplcar
+% : Módulo
 
 Operadores de comparação
 == :  Igual
