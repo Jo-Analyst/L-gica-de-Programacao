@@ -18,3 +18,17 @@ true(Verdadeiro) ou false(falso)
 && : E
 || : Ou
 ! Negação
+
+OPERADOR E (&&)
+Verdadeiro - Verdadeiro => Verdadeiro
+Verdadeiro - Falso => Falso
+Falso - Verdadeiro => Falso
+Falso - Falso => Falso
+
+OPERADOR OU (||)
+Verdadeiro - Verdadeiro => Verdadeiro
+Verdadeiro - Falso => Verdadeiro
+Falso - Verdadeiro => Verdadeiro
+Falso - Falso => Falso
+
+ 
