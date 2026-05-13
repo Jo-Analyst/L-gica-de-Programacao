@@ -31,4 +31,11 @@ Verdadeiro - Falso => Verdadeiro
 Falso - Verdadeiro => Verdadeiro
 Falso - Falso => Falso
 
+if else
+switch case
+
+for
+while
+do while
+
  
