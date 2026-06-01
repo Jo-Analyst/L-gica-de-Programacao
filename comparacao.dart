@@ -15,4 +15,4 @@ void main() {
 
   situacao = valor1 != valor2;
   print('O valor 1 é diferente do valor 2? R: $situacao');
-  }
+}
